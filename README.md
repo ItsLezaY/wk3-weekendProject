@@ -22,6 +22,8 @@ Leza: license/ticket validation
         ticket_number = matching_tickets[0]
         ticket = self.tickets[ticket_number]
 
+Left detailed doc string comments in parking_garage.py
+
 
 Hope you enjoy the program!
 
